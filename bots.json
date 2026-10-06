@@ -1,0 +1,4 @@
+{"sheet":"bots","columns":["id","count_base","count_per_extra_player","hunts","speed","aggro_range","loot_drop","verified"],
+"rows":[
+["bandit_hunter",4,2,"nearest_player",1.0,1500,"ammo_revolver",false]
+]}

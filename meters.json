@@ -1,0 +1,6 @@
+{"sheet":"meters","note":"Design values are proposals; tune in playtest. null = unfilled, must be filled before build.",
+"columns":["id","start","max","drain_per_min","zero_effect","restored_by","verified"],
+"rows":[
+["hunger",100,100,4,"damage 1hp/5s","food_*",false],
+["thirst",100,100,6,"damage 1hp/3s","water_*",false]
+]}

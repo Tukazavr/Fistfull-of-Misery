@@ -1,0 +1,6 @@
+{"sheet":"weapons_ammo","note":"Weapon class names must be read from FoF's own scripts before build.",
+"columns":["weapon_class","start_reserve","max_reserve","pickup_id","source_class_verified"],
+"rows":[
+["revolver",6,24,"ammo_revolver",false],
+["lever_rifle",0,20,"ammo_rifle",false]
+]}

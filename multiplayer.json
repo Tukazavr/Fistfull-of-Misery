@@ -1,0 +1,9 @@
+{"sheet":"multiplayer","columns":["field","value","verified"],
+"rows":[
+["mode","co-op, host creates private listen/dedicated server",false],
+["maxPlayers",null,false],
+["host_address_log",null,false],
+["join_method",null,false],
+["relay_or_lobby",null,false],
+["anticheat_note","VAC on official servers: private servers only, never bypass",false]
+]}

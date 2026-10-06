@@ -1,0 +1,10 @@
+{"sheet":"hooks","note":"Every row needs a verified FoF/Source SDK 2013 entry point before building.",
+"columns":["id","purpose","reads_sheet","engine_entry_point","verified"],
+"rows":[
+["meter_tick","drain hunger/thirst each second","meters",null,false],
+["pickup_spawn","place pickups on map start/respawn","pickups",null,false],
+["ammo_limit","cap starting and reserve ammo","weapons_ammo",null,false],
+["bot_spawn","spawn and direct hunting bots","bots",null,false],
+["hud_meters","show meters on screen","meters",null,false],
+["session_players","read who is in the session","bots",null,false]
+]}
