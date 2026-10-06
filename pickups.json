@@ -1,0 +1,9 @@
+{"sheet":"pickups","columns":["id","kind","restores_meter","amount","spawn_weight","respawn_s","model","verified"],
+"rows":[
+["food_beans","food","hunger",25,3,240,null,false],
+["food_jerky","food","hunger",15,5,240,null,false],
+["water_canteen","water","thirst",35,3,240,null,false],
+["water_bottle","water","thirst",20,5,240,null,false],
+["ammo_revolver","ammo",null,6,4,300,null,false],
+["ammo_rifle","ammo",null,5,3,300,null,false]
+]}
